@@ -1,0 +1,7 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\bin\Debug\03Desafio.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\bin\Debug\03Desafio.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\bin\Debug\03Desafio.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\obj\Debug\03Desafio.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\obj\Debug\03Desafio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\obj\Debug\03Desafio.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\01Desafio\03Desafio\obj\Debug\03Desafio.pdb
